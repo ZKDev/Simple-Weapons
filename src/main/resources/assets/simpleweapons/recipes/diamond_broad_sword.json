@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        " S "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "simpleweapons:diamond_broad_sword",
+        "count": 1
+    }
+}

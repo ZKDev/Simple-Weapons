@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simpleweapons",
+  "name": "Simple Weapons",
+  "description": "This mod adds several simple weapons to the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ZKDev/simple-weapons",
+  "updateUrl": "",
+  "authorList": ["Zeekay"],
+  "credits": "...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

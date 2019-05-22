@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " W ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:log", "data": 0
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "simpleweapons:wood_short_sword",
+        "count": 1
+    }
+}

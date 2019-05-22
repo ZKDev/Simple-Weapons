@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " WW",
+        " SW",
+        "S  "
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:log", "data": 0
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "simpleweapons:wood_spear",
+        "count": 1
+    }
+}
